@@ -1,0 +1,17 @@
+
+
+
+.child{
+
+    border: 1px solid gray;
+    width: 70vw;
+    margin: 10rem auto;
+    text-align: center;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 10px 10px 15px rgb(177, 177, 177);
+    color: rgb(58, 58, 58);
+
+}
